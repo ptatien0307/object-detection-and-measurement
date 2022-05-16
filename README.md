@@ -8,7 +8,7 @@
 <h1 align="center"><b>CS112 - NHẬP MÔN THỊ GIÁC MÁY TÍNH</b></h1>
 
 # THÔNG TIN
-Họ và tên: Phạm Trần Anh Tiên
+Họ và tên: Phạm Trần Anh Tiên \n
 MSSV: 20522012
 Lớp: CS231.M22.KHCL
 Năm học: 2021 - 2022
