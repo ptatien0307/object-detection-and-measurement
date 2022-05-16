@@ -8,13 +8,17 @@
 <h1 align="center"><b>CS112 - NHẬP MÔN THỊ GIÁC MÁY TÍNH</b></h1>
 
 # THÔNG TIN
-Họ và tên: Phạm Trần Anh Tiên \n
+Họ và tên: Phạm Trần Anh Tiên 
+
 MSSV: 20522012
+
 Lớp: CS231.M22.KHCL
+
 Năm học: 2021 - 2022
 
 # ĐỒ ÁN
 Đề tài: OBJECT DETECTION AND MEASUREMENT OF ITS SIZE
+
 Thành viên: 
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
