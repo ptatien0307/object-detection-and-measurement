@@ -18,6 +18,7 @@
 * **Đề tài:** OBJECT DETECTION AND MEASUREMENT OF ITS SIZE
 
 * **Thành viên:** 
+
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
